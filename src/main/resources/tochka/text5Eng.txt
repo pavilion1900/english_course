@@ -1,100 +1,170 @@
-I have enough time to do it
-I have enough energy to work
-I have enough money to buy a house
-I have enough time to sleep
-I have enough problems to think about it
-I have enough time to read
-I have enough time to relax
-I have enough money to travel
-I have enough money to buy it
-I have enough money to have fun
-I have enough energy to play
-I have enough energy to dance
-I have enough energy to sing
-I have enough energy to help you
-I have enough energy to work out
-I have enough books to read
-I have enough friends to have fun
-I have enough food to have guests
-I have enough money to buy a present
-I have enough time to walk
-I have enough money to buy it
-I have enough energy to dance
-I have enough friends to have fun
-I have enough time to walk
-I have enough money to travel
-Why is it so popular?
-Why is it so difficult?
-Why is it so expensive?
-Why is it so simple?
-Why is it so cheap?
-Why is it so interesting?
-Why is it so popular?
-Why is it so useful?
-Why is it so cool?
-Why is it so beautiful?
-Why is it so harmful?
-Why is it so far?
-Why is it so healthy?
-Why is it so good?
-Why is it so cheap?
-Why is it so long?
-Why is it so bad?
-Why is it so cold?
-Why is it so wet?
-Why is it so hot?
-Why is it so expensive?
-Why is it so cheap?
-Why is it so cold?
-Why is it so popular?
-Why is it so simple?
-I have a problem with logic
-I have a problem with this task
-I have a problem with reading in Spanish
-I have a problem with irony
-I have a problem with doing yoga
-I have a problem with sleeping
-I have a problem with public speaking
-I have a problem with my colleague
-I have a problem with eating on time
-I have a problem with having fun
-I have a problem with forgiving
-I have a problem with spelling
-I have a problem with my parents
-I have a problem with singing
-I have a problem with swimming
-I have a problem with my friend
-I have a problem with saying ‘sorry’
-I have a problem with my memory
-I have a problem with playing the guitar
-I have a problem with my dream
-I have a problem with irony
-I have a problem with sleeping
-I have a problem with playing the guitar
-I have a problem with forgiving
-I have a problem with public speaking
-What do you say if I help you?
-What do you say if I buy some wine?
-What do you say if I call you?
-What do you say if I invite him?
-What do you say if I change the schedule?
-What do you say if I ask her?
-What do you say if I make some tea?
-What do you say if I call friends?
-What do you say if I cook dinner?
-What do you say if I go for a walk?
-What do you say if I ask them?
-What do you say if I read about it?
-What do you say if I download a movie?
-What do you say if I cook dinner?
-What do you say if I order sushi?
-What do you say if I bring a present?
-What do you say if I invite you?
-What do you say if I visit her?
-What do you say if I come early?
-What do you say if I order dinner?
-What do you say if I visit him?
-What do you say if I cook dinner?
-What do you say if I help you?
-What do you say if I come earlier?
-What do you say if I make some tea?
+I didn’t have enough money
+I didn’t have a phone in my childhood
+I didn’t have a best friend in my childhood
+I didn’t have a car 5 years ago
+I didn’t have free time yesterday
+I didn’t have energy to do it
+I didn’t have free time
+I didn’t have a chance to do it
+I didn’t have Internet
+I didn’t have enough time
+I didn’t have a job in my childhood
+I didn’t have a laptop in my childhood
+I didn’t have a car in my childhood
+I didn’t have a country house in my childhood
+I didn’t have responsibility in my childhood
+I didn’t have responsibility in my childhood
+I didn’t have enough energy
+I didn’t have an IPhone in my childhood
+I didn’t have enough time for it
+I didn’t have a chance to do it
+We went to Paris last winter
+They went to Italy last May
+She went to Barcelona last Monday
+I went to Moscow last autumn
+They went to Finland last week
+We went to New York last spring
+She went to Australia last year
+He went to the UK last summer
+I went to Europe last Christmas
+They went to your place last weekend
+They went to Switzerland last month
+He went to Bangkok last December
+She went to Denmark last summer
+I went to Czech Republic last summer
+They went to their house last week
+We went to Czech Republic last winter
+She went to Denmark last summer
+I went to your place last weekend
+They went to New York last spring
+He went to Europe last Christmas
+I worked yesterday, I didn’t sleep
+I ate fish yesterday, I didn’t eat chicken
+I drove yesterday, I didn’t walk
+I talked to her yesterday, I didn’t talk to him
+I slept yesterday, I didn’t read it
+I took a pill yesterday, I didn’t forget about it
+I brought it yesterday, I didn’t forget about it
+I caught a fish yesterday, I didn’t buy it
+I had free time yesterday, I didn’t work
+I tried salad yesterday, I didn’t try fish
+I did homework yesterday, I didn’t do sports
+I wrote a letter yesterday, I didn’t write a post
+I said ‘hello’ yesterday, I didn’t say ‘sorry’
+I called yesterday, I didn’t forget about it
+I was sick yesterday, I didn’t work
+I did homework yesterday, I didn’t do sports
+I was sick yesterday, I didn’t work
+I drove yesterday, I didn’t walk
+I had free time yesterday, I didn’t work
+I called yesterday, I didn’t forget about it
+What about you?
+What about them?
+What about a city-tour?
+What about holidays?
+What about coffee?
+What about her?
+What about watching a horror movie?
+What about my article?
+What about his photo?
+What about dieting?
+What about me?
+What about that book?
+What about our life?
+What about her job?
+What about repeating after me?
+What about our life?
+What about my article?
+What about watching a comedy?
+What about her job?
+What about holidays?
+impress
+respect
+rely on
+improve
+character
+mood
+enthusiasm
+habit
+honest
+angry
+kind
+bossy
+What do you do to impress your pets?
+Do you respect your boss?
+I rely on my partner Vasili&
+She can't improve her cooking! It's horrible.
+What did you do to impress your pets?
+Why do you like my character?
+I am not in the mood to talk to you
+Where does your enthusiasm come from?
+Is it ok to have some bad habits?
+Do you think that your dog is honest?
+You looked like angry bird
+My friends are very kind people
+Why are you so bossy?
+reception
+receptionist
+You can take the keys at the reception
+check in \ check out
+You can check in after 2 pm, and please, check out before noon.
+key
+Do we need to leave the keys at the reception?
+sea\city view
+Our rooms have sea view.
+This hotel has a great city view.
+to disturb
+Don’t disturb me, when I am busy, please
+to call a taxi\ my mom\a doctor
+Could you please call a taxi for me?
+Call a doctor, please!
+towel
+I need an extra towel, please
+to slip\slippers
+The cow slips on ice!
+I usually forget my favourite slippers
+linen
+I really like this linen, it is very comfortable to sleep on it
+baggage
+Could you help me with my baggage, please?
+password
+Excuse me, do you have a card with a password for Wi-Fi?
+Could you write the password for Wi-Fi?
+to serve\service
+At what time breakfast is served?
+I really enjoy this service!
+single\double\twin room
+I usually book a single room, when I have a business trip.
+tourist attractions
+Excuse me! Do you have a map with tourist attractions?
+Could you please help me?
+Could you please show me where to go?
+Could you please come to my room?
+I would like coffee
+I would like this and this
+I would like to sleep
+I would like to have breakfast
+I was at work last Tuesday.
+He was sad.
+She wasn’t at home yesterday.
+It wasn’t interesting.
+Was Jack with you?
+Was it interesting?
+We were together last week.
+They were happy at school.
+You weren’t angry with her.
+My friends weren’t serious then.
+Were you busy 2 days ago?
+Were they kind in their childhood?
+I listened to music yesterday.
+She looked at me.
+They bought a car last year.
+We told him this story.
+I didn’t listen to music on Thursday.
+She didn’t look at me.
+They didn’t buy a car last year.
+We didn’t tell him this story.
+Did you listen to music in the morning?
+Why did she look at me then?
+When did they buy a car?
+What did we tell him?

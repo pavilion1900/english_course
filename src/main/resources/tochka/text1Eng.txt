@@ -120,6 +120,16 @@ It is important to be a parent
 It is good to be healthy
 It is important to be polite
 It is bad to be tired
+living room
+hall
+kitchen
+bedroom
+bathroom
+big
+beautiful
+light
+small
+nice
 I am kind
 Living room is very big.
 The hall is really light

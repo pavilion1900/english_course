@@ -1,100 +1,83 @@
-Do you prefer coffee or tea?
-Do you prefer ice-cream or cheesecake?
-Do you prefer cycling or jogging?
-Do you prefer watching comedies or science fiction?
-Do you prefer travelling or staying at home?
-Do you prefer taking photos or drawing?
-Do you prefer dancing or singing?
-Do you prefer doing homework or doing yoga?
-Do you prefer waking up early or late?
-Do you prefer reading the news or watching it?
-Do you prefer movies about love or about adventures?
-Do you prefer history books or fiction?
-Do you prefer green tea or black tea?
-Do you prefer going shopping or staying at home?
-Do you prefer playing tennis or watching it?
-Do you prefer visiting friends or parents?
-Do you prefer telling stories or listening to them?
-Do you prefer eating out or eating at home?
-Do you prefer skiing or skating?
-Do you prefer reading books or surfing the net?
-Do you prefer visiting friends or parents?
-Do you prefer movies about love or about adventures?
-Do you prefer going shopping or staying at home?
-Do you prefer dancing or singing?
-Do you prefer waking up early or late?
-We prefer Paris (to Voronezh)
-We prefer vegetables (to fast food)
-We prefer movies (to TV series)
-We prefer playing (to working)
-We prefer fast food (to healthy food)
-We prefer cheese (to ham)
-We prefer candies (to porridge)
-We prefer cycling (to walking)
-We prefer these movies (to those)
-We prefer reading about adventures (to politics)
-We prefer wine (to vodka)
-We prefer chicken (to fish)
-We prefer joking (to crying)
-We prefer cats (to dogs)
-We prefer doing sports (to doing yoga)
-We prefer thrillers (to dramas)
-We prefer jogging (to working out)
-We prefer riding a horse (to riding a motorbike)
-We prefer surfing the internet (to sleeping)
-We prefer cheeseburgers (to soup)
-We prefer thrillers (to dramas)
-We prefer joking (to crying)
-We prefer cats (to dogs)
-We prefer cycling (to walking)
-We prefer reading about adventures (to politics)
-There is coffee in the photo
-There is a girl in the photo
-There is a park in the photo
-There is a flower in the photo
-There is water in the photo
-There is a boy in the photo
-There is a family in the photo
-There is a lamp in the picture
-There is a wall in the picture
-There is a car in the photo
-There is friendship in the photo
-There is a house in the photo
-There is tea in the photo
-There is paper in the picture
-There is a kitten in the photo
-There is a city in the photo
-There is a girl in the picture
-There is bread in the photo
-There is understanding in the picture
-There is cheese in the photo
-There is a city in the photo
-There is a puppy in the photo
-There is a house in the picture
-There is a boy in the photo
-There is a family in the photo
-There are only girls in the park
-There are many families in the park
-There are a lot of people in the park
-There are memorials in the park
-There are flowers in the park
-There are ponds in the park
-There are fountains in the park
-There are birds in the park
-There are trees in the park
-There are benches in the park
-There are clubs in the city
-There are libraries in the city
-There are theatres in the city
-There are universities in the city
-There are parks in the city
-There are shopping-malls in the city
-There are hospitals in the city
-There are kindergartens in the city
-There are a lot of people in the city
-There are many cars in the city
-There are universities in the city
-There are theatres in the city
-There are kindergartens in the city
-There are fountains in the park
-There are memorials in the park
+Excuse me, may I go out?
+Excuse me, may I have lunch?
+Excuse me, may I say something?
+Excuse me, may I ask you?
+Excuse me, may I finish the sentence?
+Excuse me, may I take it?
+Excuse me, may I stay at home?
+Excuse me, may I call?
+Excuse me, may I come back later?
+Excuse me, may I order?
+Excuse me, may I take it?
+Excuse me, may I go to bed?
+Excuse me, may I visit you?
+Excuse me, may I say something?
+Excuse me, may I ask you?
+Could you order pizza, please?
+Could you call a doctor?
+Could you send it to me?
+Could you try?
+Could you call back later?
+Could you find the information?
+Could you tell her about it?
+Could you explain the situation?
+Could you calm them down?
+Could you fix the computer?
+Could you find the information?
+Could you show me your passport?
+Could you remind me about it?
+Could you help her with this task?
+Could you drive tonight?
+Let’s go to the cinema
+Let’s talk about it
+Let’s play tennis
+Let’s be happy!
+Let’s order a pizza
+Let’s go to Barcelona in summer
+Let’s have lunch together
+Let’s go to the gym on Friday
+Let’s have fun tonight!
+Let’s finish our work for today
+Let’s go to sleep earlier
+Let’s visit our parents
+Let’s read about it
+Let’s travel more often
+Let’s think about our time
+It depends on me
+It depends on my boss
+It depends on my mood
+It depends on my sister
+It depends on the weather
+It depends on her parents
+It depends on them
+It depends on his salary
+It depends on the situation
+It depends on her health
+It depends on the DJ
+It depends on music
+It depends on my boss
+It depends on the situation
+It depends on my schedule
+invite
+celebrate
+bring up
+keep in touch
+fight
+relatives
+husband
+wife
+family
+careful
+attentive
+Do you invite friends to your house?
+Why do you celebrate holidays together?
+Do you think It`s easy to bring up snakes?
+Do you keep in touch with your silly relatives?
+I never fight with my best friends!
+When do you meet your relatives?
+Do you have funny family traditions?
+Is your husband a nice person?
+How can you describe your wife?
+What is your favourite family holiday?
+Are you careful with your relatives?
+Do you like attentive dogs?
